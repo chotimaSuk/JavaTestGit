@@ -21,7 +21,7 @@ public class Hello {
          //int input1 = Integer.valueOf(args[1]);
          //int input2 = Integer.valueOf(args[2]);
          //System.out.println(input * input1 * input2);  
-        
+        int a = 0;
         int ans = 1 ;
         for (int count = 0 ;count <= 2;count++)
         {
